@@ -1,0 +1,17 @@
+U a b c x y z dad mom girl boy man woman
+S a b c
+S x y z
+S x
+S a
+S
+R (a x) (b y) (c z)
+R (a x) (b y)
+R
+R (x x)
+R (a x) (a y)
+C injective 10 3 2
+C injective 10 2 3
+C surjective 10 3 2
+C surjective 10 2 3
+C bijective 10 4 5
+C bijective 10 5 4

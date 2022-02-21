@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "stdbool.h": "c",
+        "crtdbg.h": "c",
+        "array": "c",
+        "deque": "c",
+        "format": "c",
+        "initializer_list": "c",
+        "list": "c",
+        "queue": "c",
+        "type_traits": "c",
+        "vector": "c",
+        "xstring": "c",
+        "xtree": "c",
+        "xutility": "c",
+        "sstream": "c",
+        "algorithm": "c",
+        "chrono": "c",
+        "iterator": "c",
+        "utility": "c"
+    }
+}
